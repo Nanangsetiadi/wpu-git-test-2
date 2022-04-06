@@ -9,5 +9,11 @@
 <body>
     <h1>hello world</h1>
     <p>hello dunia tipu tipu</p>
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+        <li>manga muda</li>
+        <li>tiga empat aku bangga</li>
+    </ul>
 </body>
 </html>
